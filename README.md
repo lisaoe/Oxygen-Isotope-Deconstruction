@@ -3,4 +3,5 @@ This code aims to calculate the local signal of the bottom water stable oxygen i
 Please familiarize yourself with the steps and make sure all the input files and values are formatted appropriately and entered into the script.
 
 Cite the paper: Oelkers et al. (in prep)
+
 Cite the code: [![DOI](https://zenodo.org/badge/1245805931.svg)](https://doi.org/10.5281/zenodo.20329342)
